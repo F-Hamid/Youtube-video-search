@@ -1,9 +1,8 @@
-## Todo App : F-Hamid
+## Youtube App : F-Hamid
 
-A simple clone for youtube video search, with officiel Youtube Api.
+A simple project for youtube video search, with officiel Youtube Api.
 
 Using :
-
 
 # _HTML_ : construction
 
